@@ -1,0 +1,2 @@
+# campgladiator
+Trainer API
