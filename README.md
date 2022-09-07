@@ -3,7 +3,7 @@ Trainer API
 
 you can run the application by using ./mvnw spring-boot:run. Alternatively, you can build the JAR file with ./mvnw clean package and then run the JAR file, as follows:
 
-java -jar target/fileBuilded.jar
+java -jar target/<fileBuilded>.jar
 
 # Next Steps
 
